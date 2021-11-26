@@ -8,6 +8,38 @@ body{
     position: fixed;
     width: 925px;
 }
-h1 {
-    border: 10px solid orange;
+nav {
+    
 }
+a {
+    display: inline-block;
+    text-decoration: none;
+    width: 60px;
+    margin: 4px;
+    padding: 4px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+      Verdana, sans-serif;
+}
+
+#minha_foto{
+    margin-top: 100px;
+    width: 200px;
+    display: block;
+    margin-left: 20px;
+    margin-right: auto;
+    padding: 10px; 
+}
+#cabecalho h1  {
+     
+    color: honeydew;
+    font-size: medium;
+    text-align: center;
+
+}
+
+p {
+    font-size: 12px;
+    line-height: 1.2;
+}
+    
