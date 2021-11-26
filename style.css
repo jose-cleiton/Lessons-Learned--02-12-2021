@@ -8,9 +8,7 @@ body{
     position: fixed;
     width: 925px;
 }
-nav {
-    
-}
+
 a {
     display: inline-block;
     text-decoration: none;
@@ -29,6 +27,7 @@ a {
     margin-left: 20px;
     margin-right: auto;
     padding: 10px; 
+    border: 5px solid black;
 }
 #cabecalho h1  {
      
@@ -43,3 +42,13 @@ p {
     line-height: 1.2;
 }
     
+.lado-esquerdo {
+    width: 400px;
+    float: left;
+
+}
+.lado-direiro {
+    width: 300px;
+
+    float: right;
+}
