@@ -52,3 +52,6 @@ p {
 
     float: right;
 }
+#rodape {
+    clear: both;
+}
